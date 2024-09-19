@@ -49,12 +49,8 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Flutter Developer",
+    title: "React Native Developer",
     icon: flutter2,
-  },
-  {
-    title: "Backend Developer",
-    icon: nodejs,
   },
   {
     title: "Content Creator",
@@ -76,7 +72,7 @@ const technologies = [
     icon: figma,
   },
   {
-    name:"Flutter",
+    name:"React Native",
     icon: flutter,
   },
   {
@@ -112,14 +108,14 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Flutter Developer",
+    title: "React Native Developer",
     company_name: "Cyber Fort Technologies",
     icon: starbucks,
     // iconBg: "#383E56",
     iconBg: "#FFFFFF",
     date: "May 2023 - Present",
     points: [
-      "Led projects involving the development of applications using Flutter.",
+      "Led projects involving the development of applications using React Native.",
       "Designed application architecture to ensure maintainability, scalability, and adaptability based on project needs.",
       "Managed and led a team focused on reducing bugs and minimizing project completion times.",
       "Participating in code reviews and providing constructive feedback to other developers.",
@@ -155,7 +151,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Adeeb's dedication and problem-solving were crucial in delivering the 'Do Jobs' project on time. His efforts ensured everything ran smoothly, making him a reliable and invaluable part of the team.",
+      "Jestin's dedication and problem-solving were crucial in delivering the 'Do Jobs' project on time. His efforts ensured everything ran smoothly, making him a reliable and invaluable part of the team.",
     name: "Rizvin C Usman",
     designation: "CTO",
     company: "Qburst",
@@ -163,7 +159,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Adeeb joined the team, the development of our projects accelerated significantly. His contributions greatly sped up our progress, and we couldn’t be more grateful!",
+      "After Jestin joined the team, the development of our projects accelerated significantly. His contributions greatly sped up our progress, and we couldn’t be more grateful!",
     name: "Rahul Pallath",
     designation: "CTO",
     company: "Mercedes Benz",
@@ -178,15 +174,15 @@ const projects = [
       "The Yes Yes Indian Supermarket Loyalty Program app enables customers to easily register and efficiently manage their accounts. Users receive a unique QR code for seamless scanning at checkout, which automatically applies their loyalty rewards. The app provides real-time tracking of loyalty points , significantly enhancing the shopping experience.",
     tags: [
       {
-        name: "Flutter",
+        name: "ReactNative",
         color: "blue-text-gradient",
       },
       {
-        name: "Dart",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "Figma",
+        name: "XD",
         color: "pink-text-gradient",
       },
     ],
@@ -199,11 +195,11 @@ const projects = [
       "A mobile application that allows users to browse and purchase fresh fruits and vegetables, view detailed nutritional information, and receive personalized recommendations based on their preferences. The app also provides convenient delivery options and locates nearby vendors offering organic and locally-sourced produce",
     tags: [
       {
-        name: "Flutter",
+        name: "ReactNative",
         color: "blue-text-gradient",
       },
       {
-        name: "dart",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
@@ -220,15 +216,15 @@ const projects = [
       "A dynamic real estate mobile app that empowers users to browse and discover properties, connect with agents, and explore detailed listings. The app offers a seamless user experience with advanced search filters, virtual property tours, and personalized recommendations, making it easier for users to find their ideal home or investment property",
     tags: [
       {
-        name: "Flutter",
+        name: "ReactNative",
         color: "blue-text-gradient",
       },
       {
-        name: "Dart",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "Figma",
+        name: "XD",
         color: "pink-text-gradient",
       },
     ],

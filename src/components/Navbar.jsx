@@ -44,8 +44,8 @@ const Navbar = () => {
         >
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Adeeb &nbsp;
-            <span className='sm:block hidden'> |  Dart Mastery</span>
+            Jestin &nbsp;
+            <span className='sm:block hidden'> |  React Native Mastery</span>
           </p>
         </Link>
 

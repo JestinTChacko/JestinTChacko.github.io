@@ -16,12 +16,12 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className='text-[#915EFF]'>Adeeb</span>
+            Hi, I'm <span className='text-[#915EFF]'>Jestin</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           I develop cross-platform mobile applications, <br className='sm:block hidden' />
           user interfaces, and  <br className='sm:block hidden' />
-          experiences using Flutter.
+          experiences using React Native.
           </p>
         </div>
       </div>
