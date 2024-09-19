@@ -109,27 +109,27 @@ const technologies = [
 const experiences = [
   {
     title: "React Native Developer",
-    company_name: "Cyber Fort Technologies",
+    company_name: "Freelance Work",
     icon: starbucks,
     // iconBg: "#383E56",
     iconBg: "#FFFFFF",
-    date: "May 2023 - Present",
+    date: "July 2024 - Present",
     points: [
       "Led projects involving the development of applications using React Native.",
       "Designed application architecture to ensure maintainability, scalability, and adaptability based on project needs.",
       "Managed and led a team focused on reducing bugs and minimizing project completion times.",
       "Participating in code reviews and providing constructive feedback to other developers.",
       "Acted as the liaison between the mobile team and the backend team, providing solutions to ensure smooth operations.",
-      "Deployed applications to App Store and Google Play Console."
+      "Deployed applications to App Store and Google Play Console.",
     ],
   },
   {
-    title: "E-learning Developer",
-    company_name: "Ingreme India PVT LTD",
+    title: "React Native Developer",
+    company_name: "Daiviksoft Technologies PVT LTD",
     icon: tesla,
     // iconBg: "#E6DEDD",
     iconBg: "#FFFFFF",
-    date: "Aug 2022 - April 2023",
+    date: "October 2022 - July 2024",
     points: [
       "Collaborated with instructional designers and content creators to implement engaging and effective learning experiences.",
       "Integrated multimedia elements (videos, quizzes, and interactive modules) to enhance the learning experience.",
@@ -137,7 +137,48 @@ const experiences = [
       "Developed and maintained online learning platforms to support a diverse range of educational needs and user requirements.",
     ],
   },
-
+  {
+    title: "React Native Developer",
+    company_name: "E-Drona Learning",
+    icon: tesla,
+    // iconBg: "#E6DEDD",
+    iconBg: "#FFFFFF",
+    date: "May 2021 - October 2022",
+    points: [
+      "Collaborated with instructional designers and content creators to implement engaging and effective learning experiences.",
+      "Integrated multimedia elements (videos, quizzes, and interactive modules) to enhance the learning experience.",
+      "Implemented tracking and reporting features to monitor user progress and performance.",
+      "Developed and maintained online learning platforms to support a diverse range of educational needs and user requirements.",
+    ],
+  },
+  {
+    title: "React Native Developer",
+    company_name: "Ignitho Technologies",
+    icon: tesla,
+    // iconBg: "#E6DEDD",
+    iconBg: "#FFFFFF",
+    date: "May 2019 - May 2021",
+    points: [
+      "Collaborated with instructional designers and content creators to implement engaging and effective learning experiences.",
+      "Integrated multimedia elements (videos, quizzes, and interactive modules) to enhance the learning experience.",
+      "Implemented tracking and reporting features to monitor user progress and performance.",
+      "Developed and maintained online learning platforms to support a diverse range of educational needs and user requirements.",
+    ],
+  },
+  {
+    title: "React Native Trainee",
+    company_name: "Ignitho Technologies",
+    icon: tesla,
+    // iconBg: "#E6DEDD",
+    iconBg: "#FFFFFF",
+    date: "Jan 2019 - May 2019",
+    points: [
+      "Collaborated with instructional designers and content creators to implement engaging and effective learning experiences.",
+      "Integrated multimedia elements (videos, quizzes, and interactive modules) to enhance the learning experience.",
+      "Implemented tracking and reporting features to monitor user progress and performance.",
+      "Developed and maintained online learning platforms to support a diverse range of educational needs and user requirements.",
+    ],
+  },
 ];
 
 const testimonials = [
@@ -169,7 +210,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Loyalty App",
+    name: "ClubSports",
     description:
       "The Yes Yes Indian Supermarket Loyalty Program app enables customers to easily register and efficiently manage their accounts. Users receive a unique QR code for seamless scanning at checkout, which automatically applies their loyalty rewards. The app provides real-time tracking of loyalty points , significantly enhancing the shopping experience.",
     tags: [
@@ -190,7 +231,7 @@ const projects = [
     source_code_link: "https://github.com/AdeebAbubacker/yes_loyality",
   },
   {
-    name: "Vegan",
+    name: "DOJobs",
     description:
       "A mobile application that allows users to browse and purchase fresh fruits and vegetables, view detailed nutritional information, and receive personalized recommendations based on their preferences. The app also provides convenient delivery options and locates nearby vendors offering organic and locally-sourced produce",
     tags: [
@@ -211,7 +252,112 @@ const projects = [
     source_code_link: "https://github.com/AdeebAbubacker/fruit_shop_app",
   },
   {
-    name: "Real Estate",
+    name: "ReachAMY",
+    description:
+      "A dynamic real estate mobile app that empowers users to browse and discover properties, connect with agents, and explore detailed listings. The app offers a seamless user experience with advanced search filters, virtual property tours, and personalized recommendations, making it easier for users to find their ideal home or investment property",
+    tags: [
+      {
+        name: "ReactNative",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "XD",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/AdeebAbubacker/ninety_two_agents",
+  },
+  {
+    name: "Deaks",
+    description:
+      "The Yes Yes Indian Supermarket Loyalty Program app enables customers to easily register and efficiently manage their accounts. Users receive a unique QR code for seamless scanning at checkout, which automatically applies their loyalty rewards. The app provides real-time tracking of loyalty points , significantly enhancing the shopping experience.",
+    tags: [
+      {
+        name: "ReactNative",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "XD",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/AdeebAbubacker/yes_loyality",
+  },
+  {
+    name: "RCYC",
+    description:
+      "A mobile application that allows users to browse and purchase fresh fruits and vegetables, view detailed nutritional information, and receive personalized recommendations based on their preferences. The app also provides convenient delivery options and locates nearby vendors offering organic and locally-sourced produce",
+    tags: [
+      {
+        name: "ReactNative",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/AdeebAbubacker/fruit_shop_app",
+  },
+  {
+    name: "Medetuit",
+    description:
+      "A dynamic real estate mobile app that empowers users to browse and discover properties, connect with agents, and explore detailed listings. The app offers a seamless user experience with advanced search filters, virtual property tours, and personalized recommendations, making it easier for users to find their ideal home or investment property",
+    tags: [
+      {
+        name: "ReactNative",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "XD",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/AdeebAbubacker/ninety_two_agents",
+  },
+  {
+    name: "EDrona",
+    description:
+      "A dynamic real estate mobile app that empowers users to browse and discover properties, connect with agents, and explore detailed listings. The app offers a seamless user experience with advanced search filters, virtual property tours, and personalized recommendations, making it easier for users to find their ideal home or investment property",
+    tags: [
+      {
+        name: "ReactNative",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "XD",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/AdeebAbubacker/ninety_two_agents",
+  },
+  {
+    name: "IDirect",
     description:
       "A dynamic real estate mobile app that empowers users to browse and discover properties, connect with agents, and explore detailed listings. The app offers a seamless user experience with advanced search filters, virtual property tours, and personalized recommendations, making it easier for users to find their ideal home or investment property",
     tags: [

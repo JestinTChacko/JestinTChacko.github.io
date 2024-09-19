@@ -48,7 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with extensive experience in Flutter, Dart, and 
+        I'm a skilled software developer with extensive experience in React Native, JavaScript, Redux, Firebase,  and 
         mobile app development. Specializing in creating high-performance, visually 
         appealing, and user-friendly cross-platform applications. Collaboration with 
         clients is key to developing scalable solutions that address real-world challenges. 
