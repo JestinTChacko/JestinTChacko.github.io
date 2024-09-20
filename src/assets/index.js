@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.jpg";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -11,7 +11,6 @@ import css from "./tech/css.png";
 import flutter from "./tech/reactjs.png";
 import contentCreator from "./content creator.png";
 import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -33,6 +32,11 @@ import ui_ux from "./ui_ux.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import ignitho from "./company/Ignitho.png";
+import edrona from "./company/Edrona.jpeg";
+import daiviksoft from "./company/Daiviksoft.jpeg";
+import freelance from "./company/freelancer.png";
+import dojobs from "./dojobs.jpeg"
 
 export {
   ui_ux,
@@ -47,7 +51,6 @@ export {
   close,
   css,
   docker,
-  figma,
   firebase,
   git,
   html,
@@ -69,5 +72,10 @@ export {
   jobit,
   tripguide,
   dart,
-  php
+  php,
+  ignitho,
+  daiviksoft,
+  edrona,
+  freelance,
+  dojobs,
 };
