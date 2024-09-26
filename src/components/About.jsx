@@ -48,11 +48,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a skilled software developer with extensive experience in React Native, JavaScript, Redux, Firebase,  and 
-        mobile app development. Specializing in creating high-performance, visually 
-        appealing, and user-friendly cross-platform applications. Collaboration with 
-        clients is key to developing scalable solutions that address real-world challenges. 
-        Let's work together to turn your ideas into exceptional mobile experiences!
+        I'm a highly skilled software developer with over 5 years of experience in React Native, JavaScript, TypeScript, Redux, Firebase, and UI/UX design, specializing in mobile app development for both Android and iOS platforms. I excel in building high-performance, visually appealing, and user-friendly cross-platform applications from scratch, all the way through deployment on the Play Store and App Store. My focus is on collaborating with clients to create scalable, real-world solutions that bring their ideas to life and deliver exceptional mobile experiences with seamless user interfaces and experiences.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

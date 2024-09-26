@@ -36,7 +36,14 @@ import ignitho from "./company/Ignitho.png";
 import edrona from "./company/Edrona.jpeg";
 import daiviksoft from "./company/Daiviksoft.jpeg";
 import freelance from "./company/freelancer.png";
-import dojobs from "./dojobs.jpeg"
+import dojobs from "./dojobs.jpeg";
+import edrona1 from "./edrona.png";
+import clubsports1 from "./clubsports.jpeg";
+import reachamy1 from "./reachamy.png";
+import rcyc1 from "./rcyc.png";
+import medetuit1 from "./medetuit.jpeg";
+import deaks1 from "./deaks.jpg";
+import livy from "./livy.png";
 
 export {
   ui_ux,
@@ -78,4 +85,11 @@ export {
   edrona,
   freelance,
   dojobs,
+  edrona1,
+  medetuit1,
+  rcyc1,
+  reachamy1,
+  deaks1,
+  clubsports1,
+  livy,
 };
